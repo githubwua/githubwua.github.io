@@ -13,3 +13,5 @@
 <div class="gcse-search"></div>
 
 You can use the [editor on GitHub](https://github.com/githubwua/githubwua.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+
+## [Wua Blog](/blog)
