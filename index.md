@@ -13,8 +13,14 @@
 <div class="gcse-search"></div>
 
 <form action="https://chinese.yabla.com/chinese-english-pinyin-dictionary.php" id="form1">
-  <label for="chinese">中文:</label>
+  <label for="chinese">普:</label>
   <input type="text" id="define" name="define"><br><br>
+  <input type="submit" value="Submit">
+</form>
+
+<form accept-charset="big5" action="https://humanum.arts.cuhk.edu.hk/Lexis/lexi-can/search.php" id="form2">
+  <label for="yue">粤:</label>
+  <input type="text" id="q" name="q"><br><br>
   <input type="submit" value="Submit">
 </form>
 
