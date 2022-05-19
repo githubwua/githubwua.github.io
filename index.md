@@ -24,4 +24,7 @@
   <input type="submit" value="🔍">
 </form>
 
+# Other Search Engines
+https://eow.alc.co.jp/search?q=
+
 You can use the [editor on GitHub](https://github.com/githubwua/githubwua.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
