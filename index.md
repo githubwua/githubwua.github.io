@@ -14,7 +14,7 @@
 
 <form action="https://chinese.yabla.com/chinese-english-pinyin-dictionary.php" id="form1">
   <label for="chinese">中文:</label>
-  <input type="text" placeholder="輸入中文字査拼音發音" id="pinyin" name="pinyin"><br><br>
+  <input type="text" placeholder="輸入中文字査拼音發音" id="define" name="define"><br><br>
   <input type="submit" value="🔍">
 </form>
 
