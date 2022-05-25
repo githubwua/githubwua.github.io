@@ -14,7 +14,7 @@
 
 <form action="https://chinese.yabla.com/chinese-english-pinyin-dictionary.php" id="form1">
   <label for="chinese">中文:</label>
-  <input type="text" placeholder="輸入中文字査拼音發音" id="define" name="define"><br><br>
+  <input type="text" placeholder="輸入中文字査拼音聽發音" id="define" name="define">
   <input type="submit" value="🔍">
 </form>
 
@@ -26,5 +26,6 @@
 
 # Other Search Engines
 https://eow.alc.co.jp/search?q=
+https://docs.python.org/3/search.html?q=
 
 You can use the [editor on GitHub](https://github.com/githubwua/githubwua.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
