@@ -14,13 +14,13 @@
 
 <form action="https://chinese.yabla.com/chinese-english-pinyin-dictionary.php" id="form1">
   <label for="chinese">中文:</label>
-  <input type="text" placeholder="輸入中文字査拼音聽發音" id="define" name="define">
+  <input type="text" placeholder="輸入中文字詞，査拼音聽發音" id="define" name="define">
   <input type="submit" value="🔍">
 </form>
 
 <form accept-charset="big5" action="https://humanum.arts.cuhk.edu.hk/Lexis/lexi-can/search.php" id="form2">
-  <!-- <label for="yue">粤語:</label> -->
-  <input type="text" placeholder="輸入正體單字査粤語發音" id="q" name="q"><br><br>
+  <label for="yue">粤語:</label>
+  <input type="text" placeholder="輸入正體單字，査粤語發音" id="q" name="q">
   <input type="submit" value="🔍">
 </form>
 
