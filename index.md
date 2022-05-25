@@ -14,18 +14,29 @@
 
 <form action="https://chinese.yabla.com/chinese-english-pinyin-dictionary.php" id="form1">
   <label for="chinese">中文:</label>
-  <input type="text" placeholder="輸入中文字詞，査拼音聽發音" id="define" name="define">
+  <input type="text" placeholder="輸入中文字詞査拼音聽發音" id="define" name="define">
   <input type="submit" value="🔍">
 </form>
 
 <form accept-charset="big5" action="https://humanum.arts.cuhk.edu.hk/Lexis/lexi-can/search.php" id="form2">
   <label for="yue">粤語:</label>
-  <input type="text" placeholder="輸入正體單字，査粤語發音" id="q" name="q">
+  <input type="text" placeholder="輸入正體單字査粤語發音" id="q" name="q">
   <input type="submit" value="🔍">
 </form>
 
-# Other Search Engines
-https://eow.alc.co.jp/search?q=
-https://docs.python.org/3/search.html?q=
+<form action="https://docs.python.org/3/search.html" id="pythondocs">
+  <label for="pythondocs">Python</label>
+  <input type="text" placeholder="search python docs" id="q" name="q">
+  <input type="submit" value="🔍">
+</form>
+
+<form action="https://eow.alc.co.jp/search" id="alc">
+  <label for="alc">alc</label>
+  <input type="text" placeholder="search alc" id="q" name="q">
+  <input type="submit" value="🔍">
+</form>
+
+
+
 
 You can use the [editor on GitHub](https://github.com/githubwua/githubwua.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
