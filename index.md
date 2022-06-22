@@ -24,6 +24,12 @@
   <input type="submit" value="🔍">
 </form>
 
+<form action="https://dictionary.writtenchinese.com/" id="chinese">
+  <label for="chinese">中英:</label>
+  <input type="text" placeholder="中英字典" id="SＫ" name="SＫ">
+  <input type="submit" value="🔍">
+</form>
+
 <form accept-charset="big5" action="https://humanum.arts.cuhk.edu.hk/Lexis/lexi-can/search.php" id="form2">
   <label for="yue">粤語:</label>
   <input type="text" placeholder="輸入正體單字査粤語發音" id="q" name="q">
