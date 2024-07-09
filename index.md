@@ -1,7 +1,7 @@
 <style>
   input {
     size="40"
-  
+  }
 </style>
 
 # Wua Portal
