@@ -1,6 +1,6 @@
 <style>
   input {
-    size="40"
+    size="50"
   }
 </style>
 
@@ -17,7 +17,7 @@
 -->
 <form method="get" action="https://cse.google.com/cse" accept-charset="UTF-8"> 
 <input type="hidden" name="cx" value="3acd834d7218e856f" />
-<input type="text" name="q" id="search" size="50" value="" /> 
+<input type="text" name="q" id="search-3acd834d7218e856f" size="50" value="" /> 
 <input type="submit" value="Syntax Howto Search" /> 
 </form>
 
@@ -25,7 +25,7 @@
 <!-- https://support.google.com/programmable-search/thread/184677405/how-can-i-fix-problem-about-using-two-programmable-search-engines-in-one-page?hl=en -->
 <form method="get" action="https://cse.google.com/cse" accept-charset="UTF-8"> 
 <input type="hidden" name="cx" value="b611564fcb8a8f9f4" />
-<input type="text" name="q" id="search" size="50" value="" /> 
+<input type="text" name="q" id="search-b611564fcb8a8f9f4" size="50" value="" /> 
 <input type="submit" value="英日辞典検索" /> 
 </form>
 
