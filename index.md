@@ -37,9 +37,9 @@
   <input type="submit" value="🔍">
 </form>
 
-查詢漢字、注音或拼音:
+
 <form action="https://crptransfer.moe.gov.tw/index.jsp" id="moe">
-  <label for="SN">拼音查詢:</label>
+  <label for="SN">查詢漢字、注音或拼音:</label>
   <input type="text" placeholder="e.g. 漢 or han4 or ㄏㄢˋ" id="SN" name="SN" size="40">
   <input type="submit" value="🔍">
 </form>
