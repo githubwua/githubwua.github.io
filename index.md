@@ -7,10 +7,24 @@
 <script async src="https://cse.google.com/cse.js?cx=3acd834d7218e856f"></script>
 <div class="gcse-search"></div>
 
+<!-- https://support.google.com/programmable-search/thread/184677405/how-can-i-fix-problem-about-using-two-programmable-search-engines-in-one-page?hl=en -->
+<form method="get" action="https://cse.google.com/cse" accept-charset="UTF-8"> 
+<input type="hidden" name="cx" value="3acd834d7218e856f" />
+<input type="text" name="q" id="search" size="50" value="" /> 
+<input type="submit" value="Search" /> 
+</form>
+
 ### Dictionary
 
 <script async src="https://cse.google.com/cse.js?cx=b611564fcb8a8f9f4"></script>
 <div class="gcse-search"></div>
+
+<!-- https://support.google.com/programmable-search/thread/184677405/how-can-i-fix-problem-about-using-two-programmable-search-engines-in-one-page?hl=en -->
+<form method="get" action="https://cse.google.com/cse" accept-charset="UTF-8"> 
+<input type="hidden" name="cx" value="b611564fcb8a8f9f4" />
+<input type="text" name="q" id="search" size="50" value="" /> 
+<input type="submit" value="Search" /> 
+</form>
 
 <form action="https://chinese.yabla.com/chinese-english-pinyin-dictionary.php" id="form1">
   <label for="chinese">中文:</label>
