@@ -18,7 +18,7 @@
 <form method="get" action="https://cse.google.com/cse" accept-charset="UTF-8"> 
   <label for="search-3ac">Tech Blog Search:</label>
   <input type="hidden" name="cx" value="3acd834d7218e856f" />
-  <input type="text" name="search-3ac" id="search-3ac" size="50" placeholder="e.g. lsof" /> 
+  <input type="text" name="q" id="search-3ac" size="50" placeholder="e.g. lsof" /> 
   <input type="submit" value="🔍" /> 
 </form>
 
@@ -27,13 +27,13 @@
 <form method="get" action="https://cse.google.com/cse" accept-charset="UTF-8">
   <label for="search-b611">英日辞典サイトサーチ:</label>
 　<input type="hidden" name="cx" value="b611564fcb8a8f9f4" />
-　<input type="text" name="search-b611" id="search-b611" size="50" placeholder="e.g. これ or egg" /> 
+　<input type="text" name="q" id="search-b611" size="50" placeholder="e.g. これ or egg" /> 
 　<input type="submit" value="🔍" /> 
 </form>
 
 <form action="https://chinese.yabla.com/chinese-english-pinyin-dictionary.php" id="form-yabla">
   <label for="yabla">査拼音/聽發音（yabla）:</label>
-  <input type="text" placeholder="e.g. 環保 or 环保" id="search-yabla" name="yabla" id="yabla" size="50">
+  <input type="text" placeholder="e.g. 環保 or 环保" id="search-yabla" name="q" id="yabla" size="50">
   <input type="submit" value="🔍">
 </form>
 
@@ -52,13 +52,13 @@
 
 <form accept-charset="big5" action="https://humanum.arts.cuhk.edu.hk/Lexis/lexi-can/search.php" id="form-yue">
   <label for="yue">粤語發音(cuhk):</label>
-  <input type="text" placeholder="e.g. 漢" id="yue" name="yue" size="60">
+  <input type="text" placeholder="e.g. 漢" id="yue" name="q" size="60">
   <input type="submit" value="🔍">
 </form>
 
 <form action="https://docs.python.org/3/search.html" id="pythondocs">
   <label for="pythondocs">Python</label>
-  <input type="text" placeholder="search python docs" id="pythondocs" name="pythondocs">
+  <input type="text" placeholder="search python docs" id="pythondocs" name="q">
   <input type="submit" value="🔍">
 </form>
 
