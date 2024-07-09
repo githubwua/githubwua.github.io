@@ -21,7 +21,7 @@
 <input type="submit" value="Syntax Howto Search" /> 
 </form>
 
-### Dictionary
+### 英日辞典検索
 <!-- https://support.google.com/programmable-search/thread/184677405/how-can-i-fix-problem-about-using-two-programmable-search-engines-in-one-page?hl=en -->
 <form method="get" action="https://cse.google.com/cse" accept-charset="UTF-8"> 
 <input type="hidden" name="cx" value="b611564fcb8a8f9f4" />
@@ -31,7 +31,7 @@
 
 <form action="https://chinese.yabla.com/chinese-english-pinyin-dictionary.php" id="form1">
   <label for="chinese">中文:</label>
-  <input type="text" placeholder="輸入中文字詞査拼音聽發音" id="define" name="define">
+  <input type="text" placeholder="輸入中文字詞査拼音聽發音" id="search-yabla" name="yabla">
   <input type="submit" value="🔍">
 </form>
 
@@ -42,14 +42,14 @@
 </form>
 
 <form action="https://dictionary.writtenchinese.com/" id="chinese">
-  <label for="chinese">Search by Pinyin, ，漢字，　or English: </label>
-  <input type="text" placeholder="Enter Pinyin, ，漢字，　or English" id="SＫ" name="SＫ">
+  <label for="chinese">Search by Pinyin, ，簡體字，　or English: </label>
+  <input type="text" placeholder="Enter Pinyin, ，簡體字，　or English" id="SＫ" name="SＫ">
   <input type="submit" value="🔍">
 </form>
 
 <form accept-charset="big5" action="https://humanum.arts.cuhk.edu.hk/Lexis/lexi-can/search.php" id="form2">
   <label for="yue">粤語:</label>
-  <input type="text" placeholder="輸入正體單字査粤語發音" id="q" name="q">
+  <input type="text" placeholder="Search by 正體單 to get 粤語發音" id="yue" name="yue">
   <input type="submit" value="🔍">
 </form>
 
