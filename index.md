@@ -51,8 +51,8 @@
 </form>
 
 <!-- <form action="https://dictionary.writtenchinese.com/" id="chinese" target="_blank"> -->
-<form action="https://dictionary.writtenchinese.com/ajaxsearch/simsearch.action)" id="chinese" method="post" target="_blank">  
-  <label for="SK">Search by Pinyin, ，簡體字，　or English: </label>
+<form action="https://dictionary.writtenchinese.com/ajaxsearch/simsearch.action" id="chinese" method="post" target="_blank">  
+  <label for="SK">Find Pinyin: </label>
   <input type="text" placeholder="e.g. hao or 凤　or wind" id="SＫ" name="searchKey" size="50">
   <input type="submit" value="🔍">
 </form>
