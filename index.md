@@ -37,6 +37,12 @@
   <input type="submit" value="🔍">
 </form>
 
+<form action="https://www.moedict.tw/" id="moe"  target="_blank">
+  <label for="yabla">萌典(國語辭典):</label>
+  <input type="text" placeholder="e.g. 漢 or 鄉" id="search-yabla" name="q" id="yabla" size="50">
+  <input type="submit" value="🔍">
+</form>
+
 
 <form action="https://crptransfer.moe.gov.tw/index.jsp" id="moe"  target="_blank">
   <label for="SN">查詢漢字、注音或拼音:</label>
@@ -44,9 +50,10 @@
   <input type="submit" value="🔍">
 </form>
 
-<form action="https://dictionary.writtenchinese.com/" id="chinese" target="_blank">
+<!-- <form action="https://dictionary.writtenchinese.com/" id="chinese" target="_blank"> -->
+<form action="https://dictionary.writtenchinese.com/ajaxsearch/simsearch.action)" id="chinese" method="post" target="_blank">  
   <label for="SK">Search by Pinyin, ，簡體字，　or English: </label>
-  <input type="text" placeholder="Enter Pinyin, ，簡體字，　or English" id="SＫ" name="SＫ">
+  <input type="text" placeholder="e.g. hao or 凤　or wind" id="SＫ" name="searchKey" size="50">
   <input type="submit" value="🔍">
 </form>
 
