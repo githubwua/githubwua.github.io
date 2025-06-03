@@ -4,6 +4,8 @@
   }
 </style>
 
+You can use the [editor on GitHub](https://github.com/githubwua/githubwua.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+
 # Wua Portal
 
 
@@ -75,7 +77,8 @@
   <input type="submit" value="🔍">
 </form>
 
+[edit journals](https://gist.github.com/githubwua/48cb99409f81fb5bd6e5a58e94338a1c/edit)
 <script src="https://gist.github.com/githubwua/48cb99409f81fb5bd6e5a58e94338a1c.js"></script>
-
+[edit journals](https://gist.github.com/githubwua/48cb99409f81fb5bd6e5a58e94338a1c/edit)
 
 You can use the [editor on GitHub](https://github.com/githubwua/githubwua.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
