@@ -77,6 +77,30 @@ You can use the [editor on GitHub](https://github.com/githubwua/githubwua.github
   <input type="submit" value="🔍">
 </form>
 
+# Tools
+- [Google Admin Toolbox (HAR/Encode/Decode/etc)](https://toolbox.googleapps.com/apps/encode_decode/)
+- [cyberchef](https://gchq.github.io/CyberChef/)
+- [XOR Calculator Online](http://xor.pw/)
+- [HAR Analyzer](https://toolbox.googleapps.com/apps/har_analyzer/)
+- [Crontab.guru - The cron schedule expression generator](https://crontab.guru/)
+- [Epoch Converter - Unix Timestamp Converter](https://www.epochconverter.com/)
+- [GitHub - fiatjaf/jiq: jid on jq - interactive JSON query tool using jq expressions](https://github.com/fiatjaf/jiq)
+- [Every Time Zone: time zone converter, compare time zone difference and find best time for a meeting with one click](https://everytimezone.com/)
+- [Cloud Shell](https://shell.cloud.google.com/)
+- [粵語審音配詞字庫](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-can/)
+- [羊羊粤语](https://shyyp.net/)
+- [DeepL Translate: The world's most accurate translator](https://www.deepl.com/translator#en/zh/criteria)
+- [regex101: build, test, and debug regex](https://regex101.com/)
+- [explainshell.com - match command-line arguments to their help text](https://explainshell.com/)
+- [IP Address Tools - TehnoBlog.org](https://tehnoblog.org/ip-tools/)
+- [Cloud Storage からの CSV データの読み込み | BigQuery | Google Cloud](https://cloud.google.com/bigquery/docs/loading-data-cloud-storage-csv?hl=ja)
+- [QR Code Generator | 無料 QR コード作成](https://ja.qr-code-generator.com/)
+- [Decimal to Hex Converter](https://www.rapidtables.com/convert/number/decimal-to-hex.html)
+- [Wifi Redirect](http://www.gstatic.com/generate_204)
+- [Replit – Build apps and sites with AI](https://replit.com/)
+- [p5.js Web Editor](https://editor.p5js.org/)
+- [Network Tools: DNS,Blacklisted IP,Email](https://mxtoolbox.com/SuperTool.aspx?action=blacklist%3a8.8.8.8&run=toolpage)
+  
 [edit journals](https://gist.github.com/githubwua/48cb99409f81fb5bd6e5a58e94338a1c/edit)
 <script src="https://gist.github.com/githubwua/48cb99409f81fb5bd6e5a58e94338a1c.js"></script>
 [edit journals](https://gist.github.com/githubwua/48cb99409f81fb5bd6e5a58e94338a1c/edit)
