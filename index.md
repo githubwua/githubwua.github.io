@@ -102,10 +102,6 @@ You can use the [editor on GitHub](https://github.com/githubwua/githubwua.github
 - [Network Tools: DNS,Blacklisted IP,Email](https://mxtoolbox.com/SuperTool.aspx?action=blacklist%3a8.8.8.8&run=toolpage)
 
 # Javascripts
-- [add link breaks]javascript:const style = document.createElement('style'); style.textContent = 'td.dataCell, td.dataCol, td.data2Col { word-break: break-all; }'; document.head.append(style);
-- [redirect to new site](javascript:window.open(window.location.href.replace('localhost','www.example.com'), '__blank');)
-- [view image links as images](javascript:document.querySelectorAll('a[href^="https://localhost/"]').forEach((a) => {    let newLine = document.createElement("br");    let img = new Image();    img.setAttribute("width", "100%");    img.src = `${a.href}.png`;    a.parentNode.insertBefore(img, a.nextSibling);    a.parentNode.insertBefore(newLine, a.nextSibling);}))
-- [hightlight ids](javascript:document.querySelectorAll('[id]').forEach((el) => {  el.style.border = 'solid 2px red';});)
 - [show last modified](javascript:alert('Last modified on ' + document.lastModified))
 
 [edit journals](https://gist.github.com/githubwua/48cb99409f81fb5bd6e5a58e94338a1c/edit)
