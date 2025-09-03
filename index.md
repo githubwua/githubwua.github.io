@@ -101,10 +101,6 @@ You can use the [editor on GitHub](https://github.com/githubwua/githubwua.github
 - [p5.js Web Editor](https://editor.p5js.org/)
 - [Network Tools: DNS,Blacklisted IP,Email](https://mxtoolbox.com/SuperTool.aspx?action=blacklist%3a8.8.8.8&run=toolpage)
 
-# Javascripts
-- [show last modified](javascript:alert('Last modified on ' + document.lastModified))
-
-[edit journals](https://gist.github.com/githubwua/48cb99409f81fb5bd6e5a58e94338a1c/edit)
 <script src="https://gist.github.com/githubwua/48cb99409f81fb5bd6e5a58e94338a1c.js"></script>
 [edit journals](https://gist.github.com/githubwua/48cb99409f81fb5bd6e5a58e94338a1c/edit)
 
